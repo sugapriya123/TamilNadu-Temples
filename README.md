@@ -1,5 +1,5 @@
-# temple-finder
-find nearer temple on your location
+# TamilNadu Telmples
+This project is for showing all temples under TamilNadu Aranilaya Thurai
 
 # Getting Started with Create React App
 
